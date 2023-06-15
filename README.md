@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>
 
-🌱I'm working at my best to contribute to the open source ☺
+🌱I'm working at my best to contribute to the open source
 <br>
 
 💬 Ask me about HTML5, CSS3 and JavaScript
