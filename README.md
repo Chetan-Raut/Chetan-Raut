@@ -2,7 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Chetan-Raut&icon=4&color=12)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
 🔭 I’m currently working on Web Development<br>
 
 🌱I'm working at my best to contribute to the open source
