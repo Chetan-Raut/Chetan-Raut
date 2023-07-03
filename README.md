@@ -2,16 +2,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Chetan-Raut&icon=4&color=12)](https://visitcount.itsvg.in)
 
-🔭 I’m currently working on Web Development<br>
-
-🌱I'm working at my best to contribute to the open source
-<br>
-
-💬 Ask me about HTML5, CSS3 and JavaScript
-<br>
-
-⚡ Fun fact: Huehue 👻
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-raut-3b2464215) 
