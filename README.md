@@ -1,4 +1,3 @@
-<h1 style="text-align: center;">Hi 👏, I'm Chetan Raut</h1>
 
 [![](https://visitcount.itsvg.in/api?id=Chetan-Raut&icon=4&color=12)](https://visitcount.itsvg.in)
 
