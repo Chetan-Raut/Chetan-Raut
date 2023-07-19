@@ -14,7 +14,5 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketakii-15&show_icons=true&locale=en&layout=compact" alt="ketakii-15" /></p> 
-  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketakii-15&show_icons=true&locale=en" alt="ketakii-15" /></p>
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
