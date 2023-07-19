@@ -7,11 +7,10 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan-Raut&show_icons=true&locale=en" alt="Chetan-Raut" /></p>
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&theme=nord&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&" alt="Chetan-Raut" /></p><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Raut&show_icons=true&locale=en&layout=compact" alt="Chetan-Raut" /></p> 
  
-
 ---
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
