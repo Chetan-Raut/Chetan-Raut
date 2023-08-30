@@ -8,8 +8,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Raut&repo=&show_icons=true&locale=en)](https://github.com/Chetan-Raut/Chetan-Raut)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&" alt="Chetan-Raut"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Raut&show_icons=true&locale=en&layout=compact" alt="Chetan-Raut"/>
-</p> 
- 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&repo=YourRepositoryName&layout=compact&langs_count=10)](https://github.com/YourGitHubUsername/YourRepositoryName)
+
 ---
  
