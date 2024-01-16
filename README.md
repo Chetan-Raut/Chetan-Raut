@@ -18,12 +18,14 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Raut&repo=&show_icons=true&locale=en)
+![GitHub Stats]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Raut&show_icons=true&locale=en&layout=compact" alt="Chetan-Raut" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&" alt="Chetan-Raut"/>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-Raut&repo=Chetan-Raut&layout=compact&langs_count=10)](https://github.com/Chetan-Raut/Chetan-Raut)
+[![Top Languages]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan-Raut&show_icons=true&locale=en&layout=compact" alt="Chetan-Raut" /></p>
 
 ---
  
