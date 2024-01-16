@@ -18,7 +18,7 @@
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&" alt="Chetan-Raut" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan-Raut&show_icons=true&locale=en" alt="Chetan-Raut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan-Raut&" alt="Chetan-Raut"/></p>
 
